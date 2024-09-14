@@ -20,9 +20,12 @@ Normalization is a fundamental preprocessing technique in data analytics involvi
 
 where \( \bar{x} \) is the mean and \( \sigma \) is the standard deviation.
 
-1. Create a random `5 x 5` ndarray and store it in a variable `X`.
-2. Normalize `X`.
-3. Save the normalized ndarray as `X_normalized.npy`.
+**My answer to Question 1 was formulated due to the following reasons:**
+
+1. **Generate Random Array**💹: I used `np.random.random((5,5))` to create a `5 x 5` ndarray with random values. This function provides a diverse set of values which is useful for normalization.
+2. **Calculate Mean and Standard Deviation**📏 : By calculating the mean and standard deviation with `x.mean()` and `x.std()`, I was able to center and scale the data.
+3. **Normalize the Array** ➡️: Normalizing involves subtracting the mean from each element and then dividing by the standard deviation, which transforms the data to have a mean of 0 and a standard deviation of 1.
+
 
 ### 3️⃣: Divisible by 3 Problem
 1. Create a `10 x 10` ndarray where each element is the square of the first 100 positive integers.
