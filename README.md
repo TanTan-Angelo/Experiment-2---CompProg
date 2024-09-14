@@ -7,10 +7,10 @@
 This project involves using the **Numpy** library to solve two problems related to data normalization and matrix operations.
 
 ## ❔: Intended Learning Outcomes
-1. Identify the codes and functions incorporated in the Numpy library.
-2. Apply and use various codes and functions to create a Python ***snake*** program using the Numpy library.
+1. Identify the codes and functions incorporated in the Numpy library📚.
+2. Apply and use various codes and functions to create a Python🐍 program using the Numpy library.
 
-## :memo: Instructions
+## 📝: Instructions
 Write a Python script/code in a Jupyter Notebook to address the given problems. You may submit your Jupyter notebook in github and forward the link to the appropriate submission bin in Canvas.
 
 ### 🧙: Normalization Problem
