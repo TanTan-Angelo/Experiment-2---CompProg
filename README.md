@@ -8,10 +8,10 @@ This project involves using the **Numpy** library to solve two problems related 
 
 ## ❔: Intended Learning Outcomes
 1. Identify the codes and functions incorporated in the Numpy library.
-2. Apply and use various codes and functions to create a Python program using the Numpy library.
+2. Apply and use various codes and functions to create a Python ***snake*** program using the Numpy library.
 
 ## :memo: Instructions
-Write a Python script/code in a Jupyter Notebook to address the given problems. You may submit your Jupyter notebook in the dedicated submission bin.
+Write a Python script/code in a Jupyter Notebook to address the given problems. You may submit your Jupyter notebook in github and forward the link to the appropriate submission bin in Canvas.
 
 ### 🧙: Normalization Problem
 Normalization is a fundamental preprocessing technique in data analytics involving centering and scaling. Centering is done by subtracting the data from the mean, and scaling is achieved by dividing by the standard deviation. Mathematically, normalization is expressed as:
