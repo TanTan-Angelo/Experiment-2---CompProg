@@ -1,19 +1,19 @@
-# :sparkles: Experiment 2 - Computer Programming :sparkles:
+# 🌠: Experiment 2 - Computer Programming 🌠:
 
 ## :bust_in_silhouette: Author
 **Chance Angelo Tan**
 
-## :book: Description
+## 🔍: Description
 This project involves using the **Numpy** library to solve two problems related to data normalization and matrix operations.
 
-## :dart: Intended Learning Outcomes
+## ❔: Intended Learning Outcomes
 1. Identify the codes and functions incorporated in the Numpy library.
 2. Apply and use various codes and functions to create a Python program using the Numpy library.
 
 ## :memo: Instructions
 Write a Python script/code in a Jupyter Notebook to address the given problems. You may submit your Jupyter notebook in the dedicated submission bin.
 
-### :test_tube: Normalization Problem
+### 🧙: Normalization Problem
 Normalization is a fundamental preprocessing technique in data analytics involving centering and scaling. Centering is done by subtracting the data from the mean, and scaling is achieved by dividing by the standard deviation. Mathematically, normalization is expressed as:
 
 \[ Z = \frac{X - \bar{x}}{\sigma} \]
@@ -24,10 +24,10 @@ where \( \bar{x} \) is the mean and \( \sigma \) is the standard deviation.
 2. Normalize `X`.
 3. Save the normalized ndarray as `X_normalized.npy`.
 
-### :1234: Divisible by 3 Problem
+### 3️⃣: Divisible by 3 Problem
 1. Create a `10 x 10` ndarray where each element is the square of the first 100 positive integers.
 2. Determine all elements divisible by 3.
 3. Save the result as `div_by_3.npy`.
 
-## :email: Contact
-- **Author**: Chance Angelo Tan
+## 📖: Author
+-  Chance Angelo Tan
